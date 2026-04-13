@@ -1,0 +1,12 @@
+{
+  "export_job_id": "742f418c-eae3-4d5d-bc2a-2dd827df4e31",
+  "id_short": 483151,
+  "published_at": "2026-04-13T19:03:54Z",
+  "repo_name": "tech-ready-restaurants-in-arizona-us-sample-483151",
+  "sample_asset_name": "beamstation_483151_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/483151/beamstation_483151_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_records": 2,
+  "sample_sha256": "64015462013b9942d4627a91619cf26326b5c37530f0c3e41eaf3006f0c2ab5a",
+  "sample_size_bytes": 23812,
+  "total_records": 29
+}
